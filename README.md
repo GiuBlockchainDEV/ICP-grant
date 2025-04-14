@@ -278,6 +278,8 @@ Our team combines the technological vision with the market experience necessary 
 
 # AgOracle Project - Budget Breakdown
 
+# AgOracle Project - Budget Breakdown
+
 ## Budget Summary
 - **Total Grant Request**: $200,000
 - **Project Implementation Cost**: $170,000 (85%)
@@ -285,28 +287,27 @@ Our team combines the technological vision with the market experience necessary 
 
 ## Detailed Breakdown
 
-### 1. Personnel Costs - $103,000 (61% of implementation budget)
+### 1. Personnel Costs - $96,590 (56.8% of implementation budget)
 
-| Role | Allocation | Monthly Rate | Duration | Subtotal |
-|------|------------|--------------|----------|----------|
-| AI Engineer | 55% | $6,500 | 14 months | $50,050 |
-| Blockchain Developer | 45% | $5,800 | 14 months | $36,540 |
-| DevOps/Infrastructure | 20% | $5,000 | 10 months | $10,000 |
-| Project Manager | 10% | $4,600 | 14 months | $6,440 |
-| **Personnel Subtotal** | | | | **$103,030** |
+| Role | Allocation | Duration | Subtotal |
+|------|------------|----------|----------|
+| AI Engineer | 55% | 14 months | $50,050 |
+| Blockchain Developer | 45% | 14 months | $36,540 |
+| DevOps/Infrastructure | 20% | 10 months | $10,000 |
+| **Personnel Subtotal** | | | **$96,590** |
 
-### 2. Infrastructure & Development - $48,970 (29% of implementation budget)
+### 2. Infrastructure & Development - $55,410 (32.6% of implementation budget)
 
 | Item | Cost | Duration | Subtotal |
 |------|------|----------|----------|
 | GPU Cloud Resources (Training) | $2,500 | 4 months | $10,000 |
 | ICP Cycles for Development | | | $15,000 |
 | ICP Cycles for Production (Initial) | | | $8,000 |
-| Development Tools & Licenses | | | $4,970 |
-| External APIs (Satellite & Weather Data) | $1,100 | 10 months | $11,000 |
-| **Infrastructure Subtotal** | | | **$48,970** |
+| Development Tools & Licenses | | | $8,410 |
+| External APIs (Satellite & Weather Data) | $1,400 | 10 months | $14,000 |
+| **Infrastructure Subtotal** | | | **$55,410** |
 
-### 3. Data Acquisition & Preparation - $18,000 (10% of implementation budget)
+### 3. Data Acquisition & Preparation - $18,000 (10.6% of implementation budget)
 
 | Item | Cost | Subtotal |
 |------|------|----------|
@@ -327,7 +328,7 @@ This reserve will be allocated to address:
 
 | Category | Q1 | Q2 | Q3 | Q4 | Q5 | Total |
 |----------|----|----|----|----|----|----|
-| Personnel | $19,620 | $22,380 | $23,660 | $21,500 | $15,870 | $103,030 |
-| Infrastructure | $6,000 | $18,970 | $14,000 | $8,000 | $2,000 | $48,970 |
+| Personnel | $18,500 | $21,000 | $22,090 | $20,000 | $15,000 | $96,590 |
+| Infrastructure | $8,410 | $22,000 | $15,000 | $8,000 | $2,000 | $55,410 |
 | Data | $12,000 | $6,000 | $0 | $0 | $0 | $18,000 |
-| **Quarterly Total** | **$37,620** | **$47,350** | **$37,660** | **$29,500** | **$17,870** | **$170,000** |
+| **Quarterly Total** | **$38,910** | **$49,000** | **$37,090** | **$28,000** | **$17,000** | **$170,000** |
