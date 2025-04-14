@@ -276,26 +276,58 @@ AgOracle represents the intersection of three transformative technological trend
 
 Our team combines the technological vision with the market experience necessary to transform this idea into a commercially viable and technically robust solution. With the support of the ICP grant, we can accelerate development and create a product that not only solves a real problem but can become a model for future innovations in the ecosystem.
 
-Budget Summary
+# AgOracle Project - Budget Breakdown
 
-Total Grant Request: $200,000
-Project Implementation Cost: $170,000 (85%)
-Contingency Reserve: $30,000 (15%)
+## Budget Summary
+- **Total Grant Request**: $200,000
+- **Project Implementation Cost**: $170,000 (85%)
+- **Contingency Reserve**: $30,000 (15%)
 
-Detailed Breakdown
-1. Personnel Costs - $103,000 (61% of implementation budget)
-RoleAllocationMonthly RateDurationSubtotalAI Engineer55%$6,50014 months$50,050Blockchain Developer45%$5,80014 months$36,540DevOps/Infrastructure20%$5,00010 months$10,000Project Manager10%$4,60014 months$6,440Personnel Subtotal$103,030
-2. Infrastructure & Development - $48,970 (29% of implementation budget)
-ItemCostDurationSubtotalGPU Cloud Resources (Training)$2,5004 months$10,000ICP Cycles for Development$15,000ICP Cycles for Production (Initial)$8,000Development Tools & Licenses$4,970External APIs (Satellite & Weather Data)$1,10010 months$11,000Infrastructure Subtotal$48,970
-3. Data Acquisition & Preparation - $18,000 (10% of implementation budget)
-ItemCostSubtotalLabeled Dataset Acquisition$8,000Manual Data Annotation$6,500Data Validation & QA$3,500Data Subtotal$18,000
-4. Contingency Reserve - $30,000 (15% of total budget)
+## Detailed Breakdown
+
+### 1. Personnel Costs - $103,000 (61% of implementation budget)
+
+| Role | Allocation | Monthly Rate | Duration | Subtotal |
+|------|------------|--------------|----------|----------|
+| AI Engineer | 55% | $6,500 | 14 months | $50,050 |
+| Blockchain Developer | 45% | $5,800 | 14 months | $36,540 |
+| DevOps/Infrastructure | 20% | $5,000 | 10 months | $10,000 |
+| Project Manager | 10% | $4,600 | 14 months | $6,440 |
+| **Personnel Subtotal** | | | | **$103,030** |
+
+### 2. Infrastructure & Development - $48,970 (29% of implementation budget)
+
+| Item | Cost | Duration | Subtotal |
+|------|------|----------|----------|
+| GPU Cloud Resources (Training) | $2,500 | 4 months | $10,000 |
+| ICP Cycles for Development | | | $15,000 |
+| ICP Cycles for Production (Initial) | | | $8,000 |
+| Development Tools & Licenses | | | $4,970 |
+| External APIs (Satellite & Weather Data) | $1,100 | 10 months | $11,000 |
+| **Infrastructure Subtotal** | | | **$48,970** |
+
+### 3. Data Acquisition & Preparation - $18,000 (10% of implementation budget)
+
+| Item | Cost | Subtotal |
+|------|------|----------|
+| Labeled Dataset Acquisition | | $8,000 |
+| Manual Data Annotation | | $6,500 |
+| Data Validation & QA | | $3,500 |
+| **Data Subtotal** | | **$18,000** |
+
+### 4. Contingency Reserve - $30,000 (15% of total budget)
+
 This reserve will be allocated to address:
+- Unexpected technical challenges in model distillation
+- Additional computational resources if needed
+- Extended development time for complex integration issues
+- Market adaptation requirements from insurance partners
 
-Unexpected technical challenges in model distillation
-Additional computational resources if needed
-Extended development time for complex integration issues
-Market adaptation requirements from insurance partners
+## Budget Timeline (Quarterly Expenditure)
 
-Budget Timeline (Quarterly Expenditure)
-CategoryQ1Q2Q3Q4Q5TotalPersonnel$19,620$22,380$23,660$21,500$15,870$103,030Infrastructure$6,000$18,970$14,000$8,000$2,000$48,970Data$12,000$6,000$0$0$0$18,000Quarterly Total$37,620$47,350$37,660$29,500$17,870$170,000
+| Category | Q1 | Q2 | Q3 | Q4 | Q5 | Total |
+|----------|----|----|----|----|----|----|
+| Personnel | $19,620 | $22,380 | $23,660 | $21,500 | $15,870 | $103,030 |
+| Infrastructure | $6,000 | $18,970 | $14,000 | $8,000 | $2,000 | $48,970 |
+| Data | $12,000 | $6,000 | $0 | $0 | $0 | $18,000 |
+| **Quarterly Total** | **$37,620** | **$47,350** | **$37,660** | **$29,500** | **$17,870** | **$170,000** |
