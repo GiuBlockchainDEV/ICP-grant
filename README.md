@@ -276,10 +276,6 @@ AgOracle represents the intersection of three transformative technological trend
 
 Our team combines the technological vision with the market experience necessary to transform this idea into a commercially viable and technically robust solution. With the support of the ICP grant, we can accelerate development and create a product that not only solves a real problem but can become a model for future innovations in the ecosystem.
 
-# AgOracle Project - Budget Breakdown
-
-# AgOracle Project - Budget Breakdown
-
 ## Budget Summary
 - **Total Grant Request**: $200,000
 - **Project Implementation Cost**: $170,000 (85%)
