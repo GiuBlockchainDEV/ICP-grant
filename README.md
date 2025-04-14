@@ -68,8 +68,8 @@ To concretely illustrate how AgOracle works, let's follow the path of an insuran
    - A cryptographic hash of the entire decision process, recorded on-chain
 
 5. **Consequent Action**: 
-   - The insurer receives the assessment and, based on this, authorizes prompt payment
-   - The farmer receives compensation in 36 hours instead of 2 weeks
+   - The insurer receives the assessment and, based on this, could authorizes prompt payment
+   - The farmer could receives compensation in 36 hours instead of 2 weeks
    - The entire process remains verifiable by both parties and any regulators
 
 ## Project Roadmap & Milestones
