@@ -39,7 +39,7 @@ Our system:
    * **Partially consistent (50-84% confidence)** – some elements are aligned, but others are inconclusive
    * **Limited correspondence (<50% confidence)** – insufficient or conflicting data
 
-This tool reduces manual fraud review (currently 7-10 days), accelerates settlement, and brings trust to the agricultural claims management process, especially in emerging markets where insurance fraud represents 15-30% of total claims.
+This tool reduces manual fraud review, accelerates settlement, and brings trust to the agricultural claims management process, especially in emerging markets where insurance fraud represents 15-30% of total claims.
 
 ## The Workflow in Action
 
@@ -56,7 +56,7 @@ To concretely illustrate how AgOracle works, let's follow the path of an insuran
    - Accesses pre and post-event multispectral satellite images
    - Extracts features from vegetation indices to quantify the change
 
-3. **AI Analysis**: The AgriSeek-Micro model processes these elements:
+3. **AI Analysis**: The GRW-Micro model processes these elements:
    - Compares uploaded images with known patterns of storm damage to olive trees
    - Verifies temporal consistency between the declared date and changes detected from satellite images
    - Analyzes weather data to confirm the actual occurrence of extreme conditions in the indicated area and date
