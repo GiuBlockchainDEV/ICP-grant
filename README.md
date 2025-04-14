@@ -252,13 +252,12 @@ At the end of the grant period, we will have realized:
 ## Existing Proof-of-Concept
 
 We have already completed:
-* Lightweight classifier prototype (based on BERT-tiny) working on ICP testnet
+* Studied the possibility of a lightweight classifier (based on BERT-tiny) on ICP testnet
 * Preliminary distillation pipeline with promising results on limited dataset
 * Basic canister architecture with efficient memory management
 
 During our preliminary work, we verified that:
 * It is possible to run small transformer models (15MB) within a canister
-* Latency is acceptable for non-real-time use cases (5-7 seconds for inference)
 * Cycle consumption can be significantly optimized with appropriate techniques
 
 The grant funding will allow us to significantly advance this work, creating a complete distilled model from DeepSeek V3 and implementing it effectively within the ICP ecosystem.
